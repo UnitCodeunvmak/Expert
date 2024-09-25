@@ -1,0 +1,28 @@
+.gradient-custom {
+    background: #6a11cb;
+
+    background: -webkit-linear-gradient(to right, rgba(195, 0, 255, 0.63), rgb(138, 0, 143));
+    
+    background: linear-gradient(to right, rgba(204, 0, 255, 0.603), rgb(136, 0, 148))
+    }
+
+.gradient-custom-navbar {
+    background: #4c0b91;
+    
+    background: -webkit-linear-gradient(to right, rgba(195, 0, 255, 0.63), rgb(247, 0, 255));
+    
+    background: linear-gradient(to right, rgba(204, 0, 255, 0.603), rgb(234, 0, 255))
+    }
+
+.gradient-custom-dark {
+    background: #868383;
+    
+    background: -webkit-linear-gradient(to right, rgba(94, 93, 93, 0.63), rgb(0, 0, 0));
+    
+    background: linear-gradient(to right, rgba(94, 93, 93, 0.63), rgb(0, 0, 0));
+    }
+
+.livro-img {
+    height: 50%;
+    width: 50%;
+  }
